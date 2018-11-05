@@ -25,7 +25,6 @@
 .blog-entry-img {
 	padding: 0;
 	max-width: 100%;
-	border: 15px red solid;
 	height: auto;
 }
 
@@ -89,6 +88,7 @@
 	.pure:before {
 		display: none;
 	}
+
 	.pure>li .pure-text {
 		margin: 0 0 30px 0;
 		padding: 1em;
