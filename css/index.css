@@ -25,6 +25,7 @@
 .blog-entry-img {
 	padding: 0;
 	max-width: 100%;
+	border: 15px red solid;
 	height: auto;
 }
 
